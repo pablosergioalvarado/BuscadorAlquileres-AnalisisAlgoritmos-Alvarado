@@ -1,0 +1,15 @@
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\bin\Release\net8.0\PracticaTablaMediciones.exe
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\bin\Release\net8.0\PracticaTablaMediciones.deps.json
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\bin\Release\net8.0\PracticaTablaMediciones.runtimeconfig.json
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\bin\Release\net8.0\PracticaTablaMediciones.dll
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\bin\Release\net8.0\PracticaTablaMediciones.pdb
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\obj\Release\net8.0\PracticaTablaMediciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\obj\Release\net8.0\PracticaTablaMediciones.AssemblyInfoInputs.cache
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\obj\Release\net8.0\PracticaTablaMediciones.AssemblyInfo.cs
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\obj\Release\net8.0\PracticaTablaMediciones.csproj.CoreCompileInputs.cache
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\obj\Release\net8.0\PracticaTablaMediciones.sourcelink.json
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\obj\Release\net8.0\PracticaTablaMediciones.dll
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\obj\Release\net8.0\refint\PracticaTablaMediciones.dll
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\obj\Release\net8.0\PracticaTablaMediciones.pdb
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\obj\Release\net8.0\PracticaTablaMediciones.genruntimeconfig.cache
+C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\obj\Release\net8.0\ref\PracticaTablaMediciones.dll
