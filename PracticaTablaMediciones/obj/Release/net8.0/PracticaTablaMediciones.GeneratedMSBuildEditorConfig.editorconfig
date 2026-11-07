@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PracticaTablaMediciones
-build_property.ProjectDir = C:\projects\BuscadorAlquileres-AnalisisAlgoritmos-Alvarado\PracticaTablaMediciones\
+build_property.ProjectDir = C:\projects\lecturas-ap-analisis-algoritmos-alvarado\PracticaTablaMediciones\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

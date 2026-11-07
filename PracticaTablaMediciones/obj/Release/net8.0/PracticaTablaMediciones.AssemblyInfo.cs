@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaTablaMediciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8ab4ed376e594e1da595f2675b24b768716980c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47aae7d53b5292eacefa2e8d5d82fff1328bebe7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaTablaMediciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaTablaMediciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
