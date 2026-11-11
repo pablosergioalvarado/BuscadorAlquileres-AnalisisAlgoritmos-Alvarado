@@ -1,0 +1,104 @@
+PRACTICA 1: BUSQUEDA BINARIA A MANO
+
+1. BUSCAR EL NUMERO 31
+
+Arreglo: [3, 8, 12, 19, 25, 31, 40, 47]
+Numero buscado: 31
+
+ITERACION 1:
+- ini = 0, fin = 7
+- medio = 0 + (7 - 0) / 2 = 3
+- datos[3] = 19
+- Como 19 es menor que 31, buscamos en la mitad derecha.
+- Nuevo ini = medio + 1 = 4.
+
+ITERACION 2:
+- ini = 4, fin = 7
+- medio = 4 + (7 - 4) / 2 = 5
+- datos[5] = 31
+- El numero fue encontrado.
+
+RESULTADO:
+El numero 31 se encuentra en la posicion 5 del arreglo, en 2 pasos.
+
+
+--------------------------------------------------
+
+2. BUSCAR EL NUMERO 5 (NO EXISTE)
+
+Arreglo: [3, 8, 12, 19, 25, 31, 40, 47]
+Numero buscado: 5
+
+ITERACION 1:
+- ini = 0, fin = 7
+- medio = 0 + (7 - 0) / 2 = 3
+- datos[3] = 19
+- Como 5 es menor que 19, buscamos en la mitad izquierda.
+- Nuevo fin = medio - 1 = 2.
+
+ITERACION 2:
+- ini = 0, fin = 2
+- medio = 0 + (2 - 0) / 2 = 1
+- datos[1] = 8
+- Como 5 es menor que 8, buscamos en la mitad izquierda.
+- Nuevo fin = medio - 1 = 0.
+
+ITERACION 3:
+- ini = 0, fin = 0
+- medio = 0 + (0 - 0) / 2 = 0
+- datos[0] = 3
+- Como 5 es mayor que 3, buscamos en la mitad derecha.
+- Nuevo ini = medio + 1 = 1.
+
+Ahora ini = 1 y fin = 0.
+Como ini es mayor que fin, la busqueda termina.
+
+RESULTADO:
+El numero 5 no existe en el arreglo.
+Se devuelve -1 despues de 3 pasos.
+
+
+--------------------------------------------------
+
+3. CALCULAR EL MAXIMO DE PASOS
+
+La busqueda binaria tiene una complejidad O(log2 n), porque
+en cada iteracion reduce aproximadamente a la mitad la
+cantidad de elementos que debe revisar.
+
+Formula:
+
+Pasos maximos = parte entera de log2(n) + 1
+
+
+A) PARA 1.000 ELEMENTOS
+
+log2(1000) = 9,966 aproximadamente.
+
+Pasos maximos = 9 + 1 = 10.
+
+RESULTADO: 10 pasos.
+
+
+B) PARA 1.000.000 DE ELEMENTOS
+
+log2(1.000.000) = 19,932 aproximadamente.
+
+Pasos maximos = 19 + 1 = 20.
+
+RESULTADO: 20 pasos.
+
+
+--------------------------------------------------
+
+CONCLUSION
+
+La busqueda binaria es eficiente porque no revisa todos los
+elementos uno por uno. En cada iteracion descarta
+aproximadamente la mitad de los elementos restantes.
+
+Por eso, para buscar entre 1.000 elementos necesita como
+maximo 10 pasos, mientras que para 1.000.000 de elementos
+necesita como maximo 20 pasos.
+
+Su complejidad algoritmica es O(log n).
