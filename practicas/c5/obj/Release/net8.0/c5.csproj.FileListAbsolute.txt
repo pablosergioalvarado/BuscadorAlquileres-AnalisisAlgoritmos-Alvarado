@@ -1,0 +1,15 @@
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\bin\Release\net8.0\c5.exe
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\bin\Release\net8.0\c5.deps.json
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\bin\Release\net8.0\c5.runtimeconfig.json
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\bin\Release\net8.0\c5.dll
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\bin\Release\net8.0\c5.pdb
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\obj\Release\net8.0\c5.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\obj\Release\net8.0\c5.AssemblyInfoInputs.cache
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\obj\Release\net8.0\c5.AssemblyInfo.cs
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\obj\Release\net8.0\c5.csproj.CoreCompileInputs.cache
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\obj\Release\net8.0\c5.sourcelink.json
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\obj\Release\net8.0\c5.dll
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\obj\Release\net8.0\refint\c5.dll
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\obj\Release\net8.0\c5.pdb
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\obj\Release\net8.0\c5.genruntimeconfig.cache
+C:\projects\lecturas-ap-analisis-algoritmos-alvarado\practicas\c5\obj\Release\net8.0\ref\c5.dll
